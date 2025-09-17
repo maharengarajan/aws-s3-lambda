@@ -210,3 +210,4 @@ __marimo__/
 .terraform/
 .terraform.lock.hcl
 *.tfstate
+infra/terraform.tfstate.backup
